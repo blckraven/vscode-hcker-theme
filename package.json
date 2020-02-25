@@ -2,6 +2,7 @@
     "name": "hcker-theme",
     "displayName": "Hcker Theme",
     "publisher": "blckraven",
+    "icon": "images/icon.jpg",
     "description": "Dark & modern theme for Your code.",
     "version": "1.0.0",
     "engines": {
