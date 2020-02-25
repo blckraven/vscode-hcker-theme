@@ -1,0 +1,26 @@
+{
+    "name": "hcker-theme",
+    "displayName": "Hcker Theme",
+    "publisher": "blckraven",
+    "description": "Dark & modern theme for Your code.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hcker Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hcker-theme-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/blckraven/vscode-hcker-theme"
+    }
+}
